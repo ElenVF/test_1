@@ -74,7 +74,7 @@
          </button>
          <!-- Кнопка для подсчета ячеек и изменения цвета на желтый -->
          <button class="count button" type="button" onclick="countCellColor(<?=$countCell?>)">
-             Подсчет ячеек
+             Поcчитать ячейки
          </button>
          <!--Кнопка изменения цвета на желтый -->
          <button class="button" type="button" onclick="changeColor()">
